@@ -13,6 +13,7 @@
 		7C1031FE2645653E00E8875F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C1031FC2645653E00E8875F /* Main.storyboard */; };
 		7C1032002645654000E8875F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C1031FF2645654000E8875F /* Assets.xcassets */; };
 		7C1032032645654000E8875F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C1032012645654000E8875F /* LaunchScreen.storyboard */; };
+		7C99FBA4264941180063C967 /* Secondary.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C99FBA3264941180063C967 /* Secondary.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7C1031FF2645654000E8875F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C1032022645654000E8875F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C1032042645654000E8875F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C99FBA3264941180063C967 /* Secondary.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Secondary.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7C1031FF2645654000E8875F /* Assets.xcassets */,
 				7C1032012645654000E8875F /* LaunchScreen.storyboard */,
 				7C1032042645654000E8875F /* Info.plist */,
+				7C99FBA3264941180063C967 /* Secondary.storyboard */,
 			);
 			path = CryptoTracker;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 				7C1032032645654000E8875F /* LaunchScreen.storyboard in Resources */,
 				7C1032002645654000E8875F /* Assets.xcassets in Resources */,
 				7C1031FE2645653E00E8875F /* Main.storyboard in Resources */,
+				7C99FBA4264941180063C967 /* Secondary.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
